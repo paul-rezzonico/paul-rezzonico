@@ -23,7 +23,7 @@ Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 - **[Ray Tracing](#🚀-mes-projets)** - Un projet de ray tracing en C++, avec une interface de génération en JavaFx, réalisé dans le cadre d'un projet universitaire. (2022 - 2023) (Code confidentiel)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white),
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
