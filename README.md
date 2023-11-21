@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub! 👋
 
 ## 🙋‍♂️ À propos de Moi
-Je suis Paul REZZONICO, un passionné de développement logiciel. J'aime explorer de nouvelles technologies et les appliquer pour résoudre des problèmes réels.
+Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J'aime explorer de nouvelles technologies et les appliquer pour résoudre des problèmes réels.
 
 - 🎓 Actuellement en troisème année de Bachelor en Informatique à [l'IUT du Limousin](https://www.iut.unilim.fr/).
 - 🌱 J'apprends actuellement [React](https://reactjs.org/).
@@ -11,38 +11,85 @@ Je suis Paul REZZONICO, un passionné de développement logiciel. J'aime explore
 ## 🚀 Mes Projets
 Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet, incluez un lien vers le dépôt GitHub et une brève description.
 
+- **[AhriBot](https://github.com/paul-rezzonico/AhriBot)** - Un simple bot Discord permettant d'administrer un serveur Discord, intéragir avec les utilisateurs, écouter de la musique, obtenir des stats sur Ahri et jouer à des jeux. (2023 - Présent) (en cours de développement) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
 - **[Latice](https://github.com/paul-rezzonico/latice)** - Un jeu de plateau interactif avec drag & drop, réalisé en Java avec JavaFX. (2021 - Présent) (en pause)
-- **Truckers** - [Description courte du projet](Lien vers le projet)
-- **[Nom du Projet 3]** - [Description courte du projet](Lien vers le projet)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 
-## 💼 Expérience Professionnelle
-Listez ici vos expériences professionnelles pertinentes.
+- **[Truckers](https://github.com/paul-rezzonico/truckers/tree/main)** - Un service android permettant de tracker les messages envoyés a des transporteurs. (2023 - Présent) (en cours de développement, non public pour le moment)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-- **[Votre Poste Actuel]** - [Nom de l'Entreprise] (Mois/Année - Présent)
-  - Description brève de vos responsabilités et réalisations.
-- **[Poste Précédent]** - [Nom de l'Entreprise] (Mois/Année - Mois/Année)
-  - Description brève de vos responsabilités et réalisations.
 
 ## 🛠️ Compétences Techniques
 Mettez en avant vos compétences techniques.
 
-- **Langages de Programmation**: Python, JavaScript, C++, etc.
-- **Frameworks et Bibliothèques**: React, Node.js, Django, etc.
-- **Outils et Technologies**: Docker, Git, AWS, etc.
+- **Langages de Programmation**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white), 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white),
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white),
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white),
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white),
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white),
+![XamarinForms](https://img.shields.io/badge/Xamarin.Forms-3498DB?style=flat&logo=xamarin&logoColor=white),
+![Php](https://img.shields.io/badge/Php-777BB4?style=flat&logo=php&logoColor=white),
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white),
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white),
+![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white),
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+- **Frameworks et Bibliothèques**: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white),
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white),
+![Strikt](https://img.shields.io/badge/Strikt-EE0000?style=flat&logo=kotlin&logoColor=white),
+![Mockito](https://img.shields.io/badge/Mockito-EE0000?style=flat&logo=mockito&logoColor=white),
+![Mockk](https://img.shields.io/badge/Mockk-EE0000?style=flat&logo=kotlin&logoColor=white),
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white),
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black),
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white),
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white),
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white),
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+
+- **SGBD**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white),
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white),
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+- **Outils et Technologies**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white),
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white),
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white),
+![DockerSwarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white),
+![Youtrack](https://img.shields.io/badge/Youtrack-000000?style=flat&logo=youtrack&logoColor=white),
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat&logo=ScrumAlliance&logoColor=white),
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white),
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white),
+![AsciiDoc](https://img.shields.io/badge/AsciiDoc-000000?style=flat&logo=asciidoctor&logoColor=white),
+![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white),
+
+
 
 ## 🤹 Soft Skills
 Parlez de vos compétences interpersonnelles.
 
+////////  TODO  ////////
 - Communication efficace
 - Travail d'équipe
 - Résolution de problèmes
 - Gestion du temps
 
 ## 📫 Me Contacter
-- **LinkedIn**: [Votre LinkedIn](Votre lien LinkedIn)
-- **Email**: `votre.email@example.com`
-- **Twitter**: [Votre Twitter](Votre lien Twitter)
+- **LinkedIn**: [in/paul-rezzonico](https://www.linkedin.com/in/paul-rezzonico/)
+- **Email**: `paul.rezzo@gmail.com`
+- **Discord**: [iloveahri](https://discord.com/users/350767436238159874)
+- **Twitter**: Sera bientôt disponible
 
 ---
 
-Merci de visiter mon profil! N'hésitez pas à me contacter pour toute collaboration ou opportunité.
+Merci de visiter mon profil! N'hésitez pas à me contacter pour tout autre renseignement, et à explorer mes projets ci-dessous ainsi que [mon site web personnel](https://paulrezzonico.com/).
