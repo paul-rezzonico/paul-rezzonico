@@ -27,6 +27,9 @@ Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+- **[Stodolist](https://github.com/paul-rezzonico/stodolist)** - Une application android/Kotlin permettant de gérer des listes de tâches. (2021 - 2022) (en pause)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
 
 
 ## 🛠️ Compétences Techniques
@@ -62,7 +65,7 @@ Mettez en avant vos compétences techniques.
 - **SGBD**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white),
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white),
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white),
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 - **Outils et Technologies**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white),
@@ -77,18 +80,19 @@ Mettez en avant vos compétences techniques.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white),
 ![AsciiDoc](https://img.shields.io/badge/AsciiDoc-000000?style=flat&logo=asciidoctor&logoColor=white),
-![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white),
+![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white)
 
 
 
 ## 🤹 Soft Skills
 Parlez de vos compétences interpersonnelles.
 
-////////  TODO  ////////
-- Communication efficace
-- Travail d'équipe
-- Résolution de problèmes
-- Gestion du temps
+- **Langues**: Français (langue maternelle), Anglais (niveau B2)
+- **Communication**: Bonne capacité à communiquer, à travailler en équipe et à s'adapter à de nouvelles situations.
+- **Résolution de Problèmes**: Bonne capacité d'analyse et de reflexion, ainsi que de résolution de problèmes.
+- **Organisation**: Bonne capacité d'organisation et de gestion du temps.
+- **Autonomie**: Bonne capacité à travailler de manière autonome et à prendre des initiatives.
+
 
 ## 📫 Me Contacter
 - **LinkedIn**: [in/paul-rezzonico](https://www.linkedin.com/in/paul-rezzonico/)
