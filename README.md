@@ -31,6 +31,10 @@ Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
 
+---
+Retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/). 
+Vous trouverez aussi des petits projets d'entrainement de code. 
+
 
 ## 🛠️ Compétences Techniques
 Mettez en avant vos compétences techniques.
