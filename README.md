@@ -33,7 +33,7 @@ Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet
 
 ---
 Retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/). 
-Vous trouverez aussi des petits projets d'entrainement de code. 
+Vous trouverez aussi des petits projets d'entrainement de code sur ce github.
 
 
 ## 🛠️ Compétences Techniques
