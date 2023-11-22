@@ -89,7 +89,6 @@ Mettez en avant vos compétences techniques.
 
 
 ## 🤹 Soft Skills
-Parlez de vos compétences interpersonnelles.
 
 - **Langues**: Français (langue maternelle), Anglais (niveau B2)
 - **Communication**: Bonne capacité à communiquer, à travailler en équipe et à s'adapter à de nouvelles situations.
