@@ -9,7 +9,7 @@ Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J
 - 👯 Je suis ouvert à toute proposition de projet ou de collaboration.
 
 ## 🚀 Mes Projets
-Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet, incluez un lien vers le dépôt GitHub et une brève description.
+Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez aussi retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/).
 
 - **[AhriBot](https://github.com/paul-rezzonico/AhriBot)** - Un simple bot Discord permettant d'administrer un serveur Discord, intéragir avec les utilisateurs, écouter de la musique, obtenir des stats sur Ahri et jouer à des jeux. (2023 - Présent) (en cours de développement) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -32,7 +32,6 @@ Ici, vous pouvez mettre en avant quelques-uns de vos projets. Pour chaque projet
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
 
 ---
-Retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/). 
 Vous trouverez aussi des petits projets d'entrainement de code sur ce github.
 
 
