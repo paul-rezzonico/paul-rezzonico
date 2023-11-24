@@ -36,7 +36,8 @@ Vous trouverez aussi des petits projets d'entrainement de code sur ce github.
 
 
 ## 🛠️ Compétences Techniques
-Mettez en avant vos compétences techniques.
+
+Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuellement sont les suivants:
 
 - **Langages de Programmation**: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white), 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white),
