@@ -104,4 +104,4 @@ Mettez en avant vos compétences techniques.
 
 ---
 
-Merci de visiter mon profil! N'hésitez pas à me contacter pour tout autre renseignement, et à explorer mes projets ci-dessous ainsi que [mon site web personnel](https://paulrezzonico.com/).
+Merci de visiter mon profil! N'hésitez pas à me contacter pour tout autre renseignement, et à explorer mes projets ci-dessus ainsi que [mon site web personnel](https://paulrezzonico.com/).
