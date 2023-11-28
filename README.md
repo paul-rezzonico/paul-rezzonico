@@ -101,7 +101,6 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 - **LinkedIn**: [in/paul-rezzonico](https://www.linkedin.com/in/paul-rezzonico/)
 - **Email**: `paul.rezzo@gmail.com`
 - **Discord**: [iloveahri](https://discord.com/users/350767436238159874)
-- **Twitter**: Sera bientôt disponible
 
 ---
 
