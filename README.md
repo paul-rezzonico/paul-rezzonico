@@ -11,7 +11,7 @@ Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J
 ## 🚀 Mes Projets
 Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez aussi retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/).
 
-- **[AhriBot](https://github.com/paul-rezzonico/AhriBot)** - Un simple bot Discord permettant d'administrer un serveur Discord, intéragir avec les utilisateurs, écouter de la musique, obtenir des stats sur Ahri et jouer à des jeux. (2023 - Présent) (en cours de développement) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+- **[AhriBot](https://github.com/paul-rezzonico/AhriBot)** - Un simple bot Discord permettant d'administrer un serveur Discord, intéragir avec les utilisateurs, écouter de la musique, obtenir des stats sur Ahri et jouer à des jeux. (2023 - Présent) (en cours de développement) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 - **[Latice](https://github.com/paul-rezzonico/latice)** - Un jeu de plateau interactif avec drag & drop, réalisé en Java avec JavaFX. (2021 - Présent) (en pause)
