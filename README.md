@@ -18,7 +18,7 @@ Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez a
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 
-- **[Truckers](https://github.com/paul-rezzonico/truckers/tree/main)** - Un service android permettant de tracker les messages envoyés a des transporteurs. (2023 - Présent) (en cours de développement, non public pour le moment)
+- **[Truckers](https://github.com/paul-rezzonico/truckers/tree/main)** - Un service android permettant de tracker les messages envoyés a des transporteurs. (2023 - Présent) (en cours de développement)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
