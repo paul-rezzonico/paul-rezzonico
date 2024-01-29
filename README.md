@@ -52,6 +52,7 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white),
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white),
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
 - **Frameworks et Bibliothèques**: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white),
