@@ -93,8 +93,8 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white),
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white),
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![GithubActions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white),
+![GithubActions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white),
 ![gitlab-ci](https://img.shields.io/badge/Gitlab_CI-000000?style=flat&logo=gitlab&logoColor=white)
 
 - **Systèmes d'Exploitation**: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white),
