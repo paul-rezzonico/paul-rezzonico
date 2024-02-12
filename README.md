@@ -18,9 +18,13 @@ Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez a
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 
-- **[Truckers](https://github.com/paul-rezzonico/truckers/tree/main)** - Un service android permettant de tracker les messages envoyés a des transporteurs. (2023 - Présent) (en cours de développement)
+- **[Truckers](https://github.com/paul-rezzonico/truckers/tree/main)** - Un service android permettant de tracker les messages envoyés a des transporteurs. (2023 - 2024) (terminé)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+- **[Truckers-api](https://github.com/paul-rezzonico/truckers_api/tree/main)** - Une api ReST developpée en Kotlin avec Spring Boot pour le service android Truckers. (2023 - 2024) (terminé)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 - **[Ray Tracing](#🚀-mes-projets)** - Un projet de ray tracing en C++, avec une interface de génération en JavaFx, réalisé dans le cadre d'un projet universitaire. (2022 - 2023) (Code confidentiel)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -52,7 +56,6 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white),
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white),
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
 - **Frameworks et Bibliothèques**: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white),
@@ -80,12 +83,32 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![DockerSwarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white),
 ![Youtrack](https://img.shields.io/badge/Youtrack-000000?style=flat&logo=youtrack&logoColor=white),
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat&logo=ScrumAlliance&logoColor=white),
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white),
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white),
 ![AsciiDoc](https://img.shields.io/badge/AsciiDoc-000000?style=flat&logo=asciidoctor&logoColor=white),
 ![SonarLint](https://img.shields.io/badge/SonarLint-4E9BCD?style=flat&logo=sonarlint&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white),
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white),
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+- **Systèmes d'Exploitation**: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white),
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black),
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white),
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white),
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+- **IDE**: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white),
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white),
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white),
+![phpStorm](https://img.shields.io/badge/phpStorm-000000?style=flat&logo=phpstorm&logoColor=white),
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white),
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
 
 
 
