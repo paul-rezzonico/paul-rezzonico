@@ -4,7 +4,7 @@
 Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J'aime explorer de nouvelles technologies et les appliquer pour résoudre des problèmes réels.
 
 - 🎓 Actuellement en première année d'ingénierie informatique à [3il Limoges](https://www.3il-ingenieurs.fr/).
-- 🌱 J'apprends actuellement [React](https://reactjs.org/).
+- 🌱 J'apprends actuellement [C# / .NET](https://dotnet.microsoft.com/fr-fr/languages/csharp).
 - 🔍 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/fr) et mon expérience avec [Spring Boot](https://spring.io/projects/spring-boot).
 - 👯 Je suis ouvert à toute proposition de projet ou de collaboration.
 
@@ -57,8 +57,8 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white),
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white),
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/C%23/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 - **Frameworks et Bibliothèques**:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white),
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white),
@@ -115,9 +115,6 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white),
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
-
-
-
 ## 🤹 Soft Skills
 
 - **Langues**: Français (langue maternelle), Anglais (niveau B2)
@@ -130,7 +127,6 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ## 📫 Me Contacter
 - **LinkedIn**: [in/paul-rezzonico](https://www.linkedin.com/in/paul-rezzonico/)
 - **Email**: [paul.rezzo@gmail.com](mailto:paul.rezzo@gmail.com)
-- **Discord**: [iloveahri](https://discord.com/users/350767436238159874)
 
 ---
 
