@@ -3,10 +3,9 @@
 ## 🙋‍♂️ À propos de Moi
 Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J'aime explorer de nouvelles technologies et les appliquer pour résoudre des problèmes réels.
 
-- 🎓 Actuellement en première année d'ingénierie informatique à [3il Limoges](https://www.3il-ingenieurs.fr/).
+- 🎓 Actuellement en deuxième année d'ingénierie informatique à [3il Limoges](https://www.3il-ingenieurs.fr/).
 - 🌱 J'apprends actuellement [C# / .NET](https://dotnet.microsoft.com/fr-fr/languages/csharp).
-- 🔍 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/fr) et mon expérience avec [Spring Boot](https://spring.io/projects/spring-boot).
-- 👯 Je suis ouvert à toute proposition de projet ou de collaboration.
+- 🔍 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/fr) et mes compétences avec [React](https://reactjs.org/).
 
 ## 🚀 Mes Projets
 Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez aussi retrouver le reste de mes projets sur mon github ou sur [mon site web personnel](https://paulrezzonico.com/).
@@ -26,7 +25,7 @@ Retrouvez ci-dessous une liste de mes projets les plus importants. Vous pouvez a
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-- **[Ray Tracing](#🚀-mes-projets)** - Un projet de ray tracing en C++, avec une interface de génération en JavaFx, réalisé dans le cadre d'un projet universitaire. (2022 - 2023) (Code confidentiel)
+- **[Ray Tracing](#)** - Un projet de ray tracing en C++, avec une interface de génération en JavaFx, réalisé dans le cadre d'un projet universitaire. (2022 - 2023) (Code confidentiel)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
