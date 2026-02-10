@@ -4,7 +4,7 @@
 Je suis Paul REZZONICO, un développeur passionné de développement logiciel. J'aime explorer de nouvelles technologies et les appliquer pour résoudre des problèmes réels.
 
 - 🎓 Actuellement en deuxième année d'ingénierie informatique à [3il Limoges](https://www.3il-ingenieurs.fr/).
-- 🌱 J'apprends actuellement [C# / .NET](https://dotnet.microsoft.com/fr-fr/languages/csharp).
+- 🌱 J'apprends actuellement [C# / .NET](https://dotnet.microsoft.com/fr-fr/languages/csharp) et [Go](https://go.dev/)
 - 🔍 J'approfondis actuellement mes connaissances en [Kotlin](https://kotlinlang.org/), [Rust](https://www.rust-lang.org/fr) et mes compétences avec [React](https://reactjs.org/).
 
 ## 🚀 Mes Projets
@@ -58,6 +58,8 @@ Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuelleme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#/.NET](https://img.shields.io/badge/C%23/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Go](https://go.dev/)
+
 - **Frameworks et Bibliothèques**:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white),
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white),
